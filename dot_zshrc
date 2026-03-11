@@ -7,3 +7,4 @@ source ${DOT_ZSH}/appearance.zsh
 alias ssh-config="zed ~/.ssh"
 alias op=opencode
 alias z=zed
+alias ip="ip -c"
