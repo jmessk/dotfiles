@@ -7,6 +7,3 @@ source ${DOT_ZSH}/plugins.zsh
 alias ssh-config="zed ~/.ssh"
 alias op=opencode
 alias z=zed
-
-# Added by Antigravity
-export PATH="/Users/jme/.antigravity/antigravity/bin:$PATH"
