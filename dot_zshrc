@@ -3,8 +3,12 @@ export DOT_ZSH="${HOME}/.config/zsh"
 source ${DOT_ZSH}/plugins.zsh
 source ${DOT_ZSH}/appearance.zsh
 
+# Environment variables
+
 # Aliases
 alias ssh-config="zed ~/.ssh"
 alias op=opencode
 alias z=zed
 alias ip="ip -c"
+alias ll="ls -l"
+alias la="ls -la"
