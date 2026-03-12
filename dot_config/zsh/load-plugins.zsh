@@ -10,3 +10,6 @@ source ${ZSH_PLUGINS}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # zsh-autosuggestions
 source ${ZSH_PLUGINS}/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+# zsh-autocomplete
+source ${ZSH_PLUGINS}/zsh-autocomplete/zsh-autocomplete.plugin.zsh

@@ -12,3 +12,8 @@
     type = "git-repo"
     url = "https://github.com/zsh-users/zsh-autosuggestions.git"
     refreshPeriod = "168h"
+
+[".config/zsh/plugins/zsh-autocomplete"]
+    type = "git-repo"
+    url = "https://github.com/marlonrichert/zsh-autocomplete.git"
+    refreshPeriod = "168h"
