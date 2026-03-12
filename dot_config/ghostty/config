@@ -1,0 +1,25 @@
+# Theme
+config-file = theme.ghostty
+
+# Font
+font-family = SF Mono
+font-size = 16
+font-thicken = true
+
+# Window
+window-height = 30
+window-width = 80
+
+macos-titlebar-style = tabs
+
+# Quick Terminal
+quick-terminal-position = bottom
+quick-terminal-size = 
+quick-terminal-screen = main
+quick-terminal-animation-duration = 0.2
+
+keybind = global:f12=toggle_quick_terminal
+
+# Cursor
+shell-integration-features = no-cursor
+cursor-style = block
