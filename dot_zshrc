@@ -14,3 +14,4 @@ alias z=zed
 alias ip="ip -c"
 alias ll="ls -l"
 alias la="ls -la"
+alias ipba="ip -br a"
